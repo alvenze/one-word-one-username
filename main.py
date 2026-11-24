@@ -19,6 +19,8 @@ def render():
         raise ValueError("username outside the 1-30 character gate")
     if ENTRY.strip() != ENTRY:
         raise ValueError("username must not carry padding")
+    if any(ch.isspace() for ch in ENTRY):
+        raise ValueError("username must be a single word with no whitespace")
     return ENTRY
 
 
