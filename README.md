@@ -12,7 +12,7 @@ a time. The program writes the entrant's handle to `/output/entry.txt`:
 
 > alvenzidan
 
-Nine characters, one word, no digits, no punctuation, no gloss. The
+Ten characters, one word, no digits, no punctuation, no gloss. The
 judge's published criteria put genuineness first: the entry must be a
 real make.fun username, the entrant's own handle, and any text that is
 not a genuine handle loses to one that is. That fixes the text. There
@@ -23,7 +23,7 @@ The handle itself is a two-name blend that reads as one coined word,
 pronounceable in a single breath. In a field crowded with
 auto-generated adjective-animal-number handles, a short human name with
 no digits reads as a handle a person actually wears, which is what the
-later criteria reward. At nine bytes it is also among the smallest
+later criteria reward. At ten bytes it is also among the smallest
 entries in the field, and exact ties go to the smaller text first.
 
 Fourteen candidate forms were written down and weighed for this bounty:
